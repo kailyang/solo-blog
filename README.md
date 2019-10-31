@@ -10,8 +10,7 @@ Lyon的个人博客
 
 ### 最新
 
-* [测试文章标题](http://www.lyonsblog.com/articles/2019/10/13/1570974076570.html)
-* [世界，你好！](http://www.lyonsblog.com/hello-solo)
+* [学习力：颠覆职场学习的高效方法](http://www.lyonsblog.com/articles/2019/10/14/1571062557412.html)
 
 
 
